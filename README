@@ -1,0 +1,3 @@
+Flask-RedisMQ
+
+Adds message queue using Redis support to Flask.
